@@ -1,0 +1,50 @@
+Make a Move Code
+from turtle import*
+forward (100)
+Starting From Square One
+from turtle import *
+forward(100)
+right(90)
+forward(100)
+right (90)
+forward (100)
+right (90)
+forward (100)
+Get rect!
+from turtle import *
+forward (120)
+left (90)
+forward (50)
+left (90)
+forward (120)
+left (90)
+forward (50)
+Domino
+from turtle import *
+forward (50)
+right (90)
+forward (50)
+right (90)
+forward (50)
+right (90)
+forward (100)
+right (90)
+forward (50)
+right (90)
+forward (50)
+from turtle import *
+Plate Instead of a bowl
+right(45)
+forward(50)
+left(45)
+forward(100)
+left(45)
+forward(50)
+Equilateral Triangle
+from turtle import *
+forward (100)
+left (120)
+forward (100)
+left (120)
+forward (100)
+
